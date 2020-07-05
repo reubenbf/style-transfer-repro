@@ -1,4 +1,4 @@
-# Simple Image CLassification and Neural Style Transfer
+# Simple Image Classification and Neural Style Transfer
 
 Following work is proof of reproducibility 
 
